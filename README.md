@@ -1,4 +1,4 @@
-Hi 👋 My name is Sohanoor Rahman
+Hi 👋 My name is Sohan
 ================================
 
 Backend Developer
