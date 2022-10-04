@@ -1,7 +1,8 @@
 Hi 👋 My name is Sohan
 ================================
 
-Backend Developer
+An aspiring backend developer  
+
 -----------------
 
 A motivated fresh CS graduate from BRAC university with a great passion for technology and software development. I'm Sohanoor Rahman but most people know me by Sohan. Prefers to work with OOP language with a preference to Java. Have a keen interest in Machine learning and Data Science. Did a thesis on image recognition using CNN. Currently, learning and researching NLP. Also a Competitive programmer on Codeforces and LeetCode. Although a noob, hopefully will get better overtime!
