@@ -9,7 +9,7 @@ A motivated fresh CS graduate from BRAC university with a great passion for tech
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [sohanoorrahmansourav@gmail.com](mailto:sohanoorrahmansourav@gmail.com)
-* 🧠  I'm currently learning NLP, SpringBoot & Spring Data JPA
+* 🧠  I'm currently learning SpringBoot & Spring Data JPA
 
 
 ### Skills
