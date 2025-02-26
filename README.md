@@ -27,7 +27,7 @@ A motivated CS graduate from BRAC university with a great passion for technology
 
 
 ### LeetCode
-![LeetCode Stats](https://leetcode.card.workers.dev/notsohan?theme=auto&font=baloo&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/notSohan?theme=dark&font=Chelsea%20Market)
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=notsohan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
